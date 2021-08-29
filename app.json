@@ -23,10 +23,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.DoneWithIt"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "hello g"
   }
 }
